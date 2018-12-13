@@ -1,8 +1,0 @@
-package fuctional;
-
-public class Utility {
-
-	
-	
-	
-}
